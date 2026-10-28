@@ -2,7 +2,7 @@
 
 C Daemon that authenticates requests via the Tacacs+ Protocol and logs accounting information.
 
-This is a fork of Cisco + Shruberry's Tacacas+ daemons (http://www.shrubbery.net/tac_plus/)
+This is a fork of Cisco + Shruberry's Tacacs+ daemons (http://www.shrubbery.net/tac_plus/)
 
 ## Requirements
 - Linux (have not tested in other OSs)
